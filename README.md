@@ -2,7 +2,7 @@
 Specially created for pre-final year students.
 
   - The most important things for placements are Aptitude, Core Subjects, DSA, and projects.
- - This repository contains 9 9-month details roadmap with resources. you can trust me on this.
+ - This repository contains 9-month details roadmap with resources. you can trust me on this.
 --------------------------------------------------------
 
 Basic preparation other than interviews required:
@@ -12,6 +12,6 @@ Basic preparation other than interviews required:
 
 The resume format is attached in the folder also.
 For LinkedIn, you can visit my account to get an idea. Do follow me also :)
-LinkedIn: [https://www.linkedin.com/in/aryan-8767a7161/]
+LinkedIn: https://www.linkedin.com/in/aryan-8767a7161/
 
 
